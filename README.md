@@ -1,0 +1,3 @@
+# Install
+
+`./homebrew.sh`
